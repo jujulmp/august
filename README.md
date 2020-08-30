@@ -1,1 +1,3 @@
-# august
+# maven-project
+
+Simple Maven Project
